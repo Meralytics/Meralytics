@@ -1,4 +1,4 @@
-<h1 align="center">Hi https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png, I'm Mohamed Ammar</h1>
+<h1 align="center">Hi , I'm Mohamed Ammar</h1>
 <h3 align="center">I'm geared to code my fate, break into tech, where lines of logic correlate with destiny's gate</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/85591297/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif">
 

@@ -3,13 +3,12 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ammar-883a7a252/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Mohamedd.ammarr@gmail.com)
 [![Email](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
 ## About me :speech_balloon:
 
-Hi! My name is Mohamed, I'm a I'm a junior data maestro with a finance vibe.
+Hi! My name is Mohamed, I'm a junior data maestro with a finance vibe.
 <img align="right" alt="GIF" src= "https://raw.githubusercontent.com/Meralytics/Meralytics/main/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif"  />
 
 

@@ -46,7 +46,7 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 ![Tableau](https://res.cloudinary.com/practicaldev/image/fetch/s--2D1p1BA7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3DTableau%26logoColor%3Dwhite)
 
 
-### ML/DL :cloud:
+### ML/DL 🤖:
 
 ![Matplotlibl](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)

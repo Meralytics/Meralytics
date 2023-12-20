@@ -18,7 +18,7 @@ Hi! My name is Mohamed, I'm a junior data maestro with a finance vibe.
 * Guitar player :guitar:
 * My goal is make the world a better place for everyone. :star2:
 
-Feel free to get in touch and book a coffee to exchange experiences. ☕️
+Feel free to get in touch : Mohamedd.ammarr@gmail.com 
 <img align="right" alt="GIF" src= "https://raw.githubusercontent.com/Meralytics/Meralytics/main/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 

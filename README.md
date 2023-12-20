@@ -25,15 +25,8 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 
 ## Technologies that I have skill :computer:
 
-### Back-End:
+## Technologies that I have skill :computer:
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=green)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-red?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-283141?style=flat-square&logo=prisma&logoColor=white)
 
 ### Front-end:
 

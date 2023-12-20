@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ammar-883a7a252/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Mohamedd.ammarr@gmail.com)
-[![Email](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)(Mohamedd.ammarr@gmail.com)
+[![Email](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
 ## About me :speech_balloon:
@@ -34,13 +34,17 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 ### Languages :keyboard:
 
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=blue)
-![Golang](https://img.shields.io/badge/Golang-blue?style=flat-square&logo=go&logoColor=white)
+
+### Database⚡ 
+![MySQL](https://res.cloudinary.com/practicaldev/image/fetch/s--OvXzauo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite)
+![Microsoft SQL server](https://res.cloudinary.com/practicaldev/image/fetch/s--7JrRHzL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Microsoft_SQL_Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite)
 
 ### Tools :wrench:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![PowerBI]([![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://camo.githubusercontent.com/5172fc49207876519dd04a3d195d32578f598738959a9185e02a82b2c062a9b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d626c61636b))
+![Tableau](https://res.cloudinary.com/practicaldev/image/fetch/s--2D1p1BA7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3DTableau%26logoColor%3Dwhite)
 
 
 ### ML/DL :cloud:

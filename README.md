@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, welcome [👻](https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png) </h1>
+<h1 align="center">Hi there, welcome  </h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-otero390/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.otero390@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lbittencourt.o/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ammar-883a7a252/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Mohamedd.ammarr@gmail.com)
 
 ## About me :speech_balloon:
 
-Hi! My name is Leonardo, I'm a fullstack web developer. Currently working at pagar.me.
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85591297/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif" height="200" />
+Hi! My name is Mohamed, I'm a I'm a junior data maestro with a finance vibe.
+<img align="right" alt="GIF" src="![Uploading 155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif…]()  " />
+
 
 * Bartender :tropical_drink:
 * DeMolay :vampire_man:

@@ -9,7 +9,7 @@
 ## About me :speech_balloon:
 
 Hi! My name is Mohamed, I'm a junior data maestro with a finance vibe.
-<img align="right" alt="GIF" src= "https://raw.githubusercontent.com/Meralytics/Meralytics/main/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif" height="250" />
+<img align="right" alt="GIF" src= "https://raw.githubusercontent.com/Meralytics/Meralytics/main/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif" height="220" />
 
 
 

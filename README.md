@@ -16,6 +16,7 @@ Hi! My name is Mohamed, I'm a junior data maestro with a finance vibe.
 * Aspiring to evolve into a data scientist in the future.
 * Committed to lifelong learning in the dynamic field of data science.
 * 64565
+* 478
 
 
 Feel free to get in touch : Mohamedd.ammarr@gmail.com 

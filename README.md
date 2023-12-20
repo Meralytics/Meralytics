@@ -15,14 +15,14 @@ Hi! My name is Mohamed, I'm a junior data maestro with a finance vibe.
 * Ex-accountant transitioning to a junior data analyst role.
 * Aspiring to evolve into a data scientist in the future.
 * Committed to lifelong learning in the dynamic field of data science.
-* My goal is make the world a better place for everyone. 
+
 
 Feel free to get in touch : Mohamedd.ammarr@gmail.com 
 <img align="right" alt="GIF" src= "https://raw.githubusercontent.com/Meralytics/Meralytics/main/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 
 
-## Technologies that I have skill :computer:
+
 ## Technologies that I have skill :computer:
 ### Languages :keyboard:
 

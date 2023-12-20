@@ -24,6 +24,7 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 
 
 ## Technologies that I have skill :computer:
+## Technologies that I have skill :computer:
 ### Languages :keyboard:
 
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)

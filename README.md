@@ -1,5 +1,5 @@
 <h1 align="center">🎉 Hi there, welcome! 🌟</h1>
-<p align="center"><img src="https://your-gif-url-here.gif" alt="Joyful GIF"></p>
+<p align="center"><img src="https://i.gifer.com/fetch/w300-preview/aa/aaf68e2b28f9805fcfb3c84598fb2cce.gif"></p>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ammar-883a7a252/)

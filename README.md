@@ -57,6 +57,8 @@ Mohamedd.ammarr@gmail.com
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Meralytics/Machine-Learning)
 [![Tenserflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Meralytics/Machine-Learning)
 
+### Framework :
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/Meralytics/Machine-Learning)
 
 
 <details>

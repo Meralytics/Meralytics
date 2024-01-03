@@ -33,7 +33,7 @@ Mohamedd.ammarr@gmail.com
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Meralytics/Machine-Learning) 
 
 ### Database⚡ 
-[![Microsoft SQL server](https://res.cloudinary.com/practicaldev/image/fetch/s--7JrRHzL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Microsoft_SQL_Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite)](https://github.com/Meralytics/SQL)]
+![Microsoft SQL server](https://res.cloudinary.com/practicaldev/image/fetch/s--7JrRHzL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Microsoft_SQL_Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite)](https://github.com/Meralytics/SQL)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/Meralytics/SQL)
 
 

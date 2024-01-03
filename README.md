@@ -43,7 +43,6 @@ Mohamedd.ammarr@gmail.com
 [![Microsoft excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-grey?style=for-the-badge&logo=powerBI)
 [![Tableau](https://res.cloudinary.com/practicaldev/image/fetch/s--2D1p1BA7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3DTableau%26logoColor%3Dwhite)](https://github.com/Meralytics/Tableau)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
